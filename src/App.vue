@@ -59,7 +59,7 @@ export default {
       chn: 0,
       // url: 'ws://192.168.0.85:8090/ws/talk',
       // url: 'ws://192.168.0.85:1079/tsinglive',
-      url: 'ws://27.150.180.120:8090/ws/talk',
+      url: 'wss://video.flmcloud.com:8090/ws/talk',
       // eslint-disable-next-line camelcase
       sample_rate: 8000,
       // eslint-disable-next-line camelcase
