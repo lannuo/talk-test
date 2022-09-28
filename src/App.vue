@@ -55,11 +55,11 @@ export default {
   data() {
     return {
       disabled: false,
-      imei: '10007012346',
-      chn: 0,
+      imei: '013459461831',
+      chn: 2,
       // url: 'ws://192.168.0.85:8090/ws/talk',
       // url: 'ws://192.168.0.85:1079/tsinglive',
-      url: 'wss://video.flmcloud.com:8090/ws/talk',
+      url: 'wss://video.flmcloud.com:9080/ws/talk',
       // eslint-disable-next-line camelcase
       sample_rate: 8000,
       // eslint-disable-next-line camelcase
